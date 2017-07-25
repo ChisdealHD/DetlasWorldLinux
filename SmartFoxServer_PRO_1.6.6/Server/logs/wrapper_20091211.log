@@ -1,0 +1,10 @@
+STATUS | wrapper  | 2009/12/11 10:35:11 | --> Wrapper Started as Console
+STATUS | wrapper  | 2009/12/11 10:35:11 | Java Service Wrapper Community Edition 3.3.1
+STATUS | wrapper  | 2009/12/11 10:35:11 |   Copyright (C) 1999-2008 Tanuki Software, Inc.  All Rights Reserved.
+STATUS | wrapper  | 2009/12/11 10:35:11 |     http://wrapper.tanukisoftware.org
+STATUS | wrapper  | 2009/12/11 10:35:11 | 
+STATUS | wrapper  | 2009/12/11 10:35:11 | Launching a JVM...
+ERROR  | wrapper  | 2009/12/11 10:35:11 | Unable to start JVM: No such file or directory (2)
+STATUS | wrapper  | 2009/12/11 10:35:11 | JVM process is gone.
+INFO   | jvm 1    | 2009/12/11 10:35:11 | wrapper  | Unable to start JVM: No such file or directory (2)
+STATUS | wrapper  | 2009/12/11 10:35:11 | <-- Wrapper Stopped
